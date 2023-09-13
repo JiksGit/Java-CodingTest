@@ -8,6 +8,6 @@ public class FindSosu {
         int N = sc.nextInt();
         int M = sc.nextInt();
 
-
+        //수정입니다
     }
 }
