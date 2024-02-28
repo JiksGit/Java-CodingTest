@@ -6,11 +6,19 @@
 
 ---------
 Combination
+
 DynamicProgramming
+
 Graph
+
 Greedy
+
 NumberTheory
+
 Search
+
 Sort
+
 Structure
+
 Tree
